@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/Tab Test/app/build/intermediates/res/merged/debug/layout/fragment_collection_object.xml",
+        "source": "/home/johnny/AndroidStudioProjects/Tab Test/app/src/main/res/layout/fragment_collection_object.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout/fragment_section_dummy.xml",
+        "source": "/home/johnny/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/layout/fragment_section_dummy.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/Tab Test/app/build/intermediates/res/merged/debug/layout/fragment_section_launchpad.xml",
+        "source": "/home/johnny/AndroidStudioProjects/Tab Test/app/src/main/res/layout/fragment_section_launchpad.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/johnny/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout/fragment_collection_object.xml",
+        "source": "/home/johnny/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/layout/fragment_collection_object.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout/fragment_section_launchpad.xml",
+        "source": "/home/johnny/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/layout/fragment_section_launchpad.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/Tab Test/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/johnny/AndroidStudioProjects/Tab Test/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout/activity_collection_demo.xml",
+        "source": "/home/johnny/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/layout/activity_collection_demo.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/Tab Test/app/build/intermediates/res/merged/debug/layout/activity_collection_demo.xml",
+        "source": "/home/johnny/AndroidStudioProjects/Tab Test/app/src/main/res/layout/activity_collection_demo.xml"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/Tab Test/app/build/intermediates/res/merged/debug/layout/fragment_section_dummy.xml",
+        "source": "/home/johnny/AndroidStudioProjects/Tab Test/app/src/main/res/layout/fragment_section_dummy.xml"
+    }
+]

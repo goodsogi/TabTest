@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/EffectiveNavigation/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/johnny/AndroidStudioProjects/EffectiveNavigation/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/johnny/AndroidStudioProjects/Tab Test/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/home/johnny/AndroidStudioProjects/Tab Test/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]
